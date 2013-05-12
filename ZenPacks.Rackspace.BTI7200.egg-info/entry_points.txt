@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.Rackspace.BTI7200 = ZenPacks.Rackspace.BTI7200
+
